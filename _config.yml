@@ -4,4 +4,5 @@ markdown: kramdown
 url: http://HenrikBacher.github.io
 title: Bacher Bin
 tagline: Random Tech Ramblings
+description: Random Tech Ramblings
 paginate: 5
